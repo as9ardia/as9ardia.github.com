@@ -6,7 +6,7 @@ Penggunaan
 markdown : # 3 kali
 Header 1 : #
 Header 2 : ##
-[center] Contoh Center[/center]
+[center] Contoh Center
 
 
 ```markdown
