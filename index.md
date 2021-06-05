@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to as9ardia Pages
 
-You can use the [editor on GitHub](https://github.com/as9ardia/as9ardia.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Halaman ini merupakan halaman contoh dalam pembuatan halaman website dengan menggunakan [github](https://github.com) sebagai host nya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Penggunaan 
+markdown : # 3 kali
+Header 1 : #
+Header 2 : ##
+[center] Contoh Center[/center]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
